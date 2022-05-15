@@ -31,7 +31,7 @@ if (status != true)
 console.log(type); 
  $.ajax(
  {
- url : "InquiriesAPI",
+ url : "InquiryAPI",
  type : type,
  data : $("#formItem").serialize(),
  dataType : "text",
