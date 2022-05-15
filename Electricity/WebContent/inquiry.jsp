@@ -53,5 +53,5 @@
 	</div>
 </body>
 <script src="Components/jquery.min.js" type="text/javascript"></script>
-<script src="Components/inquiries.js" type="text/javascript"></script>
+<script src="Components/inquiry.js" type="text/javascript"></script>
 </html>
