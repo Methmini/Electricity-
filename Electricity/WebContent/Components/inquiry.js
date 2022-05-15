@@ -132,7 +132,7 @@ $(document).on("click", ".btnRemove", function()
 	console.log("id is :"+id)
  $.ajax(
  {
- url : "InquiriesAPI",
+ url : "InquiryAPI",
  type : "DELETE",
  data : "inquiryID=" + id,
  dataType : "text",
