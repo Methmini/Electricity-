@@ -40,7 +40,7 @@
 				<div id="alertSuccess" class="alert alert-success"></div>
 				<div id="alertError" class="alert alert-danger"></div>
 				<br>
-				<div id="divItemsGrid">
+				<div id="divInquiryGrid">
 				<%
 				Inquiry inquiryObj = new Inquiry();
  					out.print(inquiryObj.readInquiries());
